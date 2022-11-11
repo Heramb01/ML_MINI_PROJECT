@@ -1,12 +1,12 @@
 """
 Machine Learning Miniproject : Survival prediction for titanic data using ML
-Group Members :
-Yogesh Kharat(BE-A-29)
-Tanay Nikam(BE-A-30)
-Abhishek Gangurde(BE-A-31)
-Rupesh Chavan(BE-A-32)
-"""
+# PID 20
+# Group Members: 1. Shubham Pawar (BE-A-77)
+#                2. Heramb Chougaonkar (BE-A-78)
+#                3. Yash Gargade (BE-A-79)
+#                4. Yashank Bhamare (BE-A-80)
 
+"""
 
 
 import numpy as np
